@@ -1,0 +1,21 @@
+{
+  "name": "hacker-news",
+  "tools": [
+    {
+      "name": "List stories",
+      "args": [],
+      "cells": [
+        {
+          "type": "Load Page",
+          "order": 0,
+          "code": "https://news.ycombinator.com"
+        },
+        {
+          "type": "Return Data",
+          "order": 1,
+          "code": "[\"test\"]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+PyQt6==6.5.3
+PyQt6-Qt6==6.5.3
+PyQt6-sip==13.6.0
+selenium==4.15.2
+webdriver-manager==4.0.1
+git+https://github.com/modelcontextprotocol/python-sdk.git
+python-dotenv==1.0.1 
